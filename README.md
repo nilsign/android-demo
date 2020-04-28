@@ -1,6 +1,6 @@
 # ANDROID DEMO
 
-This is a simple Android 7 demo written in just a few hours in 2017. The app has pure demostration purpose and isn't up to date anymore. Nevertheless, the following code qualitity ensurance tools have been included.
+This is a simple Android 7 demo written in just a few hours in 2017. The app has a pure demostration purpose and isn't up to date anymore. Nevertheless, the following code qualitity ensurance tools have been included.
 
 - [Checkstyle](https://checkstyle.sourceforge.io)
 - [FindBugs](https://github.com/findbugsproject/findbugs) (Nowadays it is called SpotBugs)
